@@ -1,0 +1,20 @@
+table{
+	border-collapse: collapse;
+	border-color: blue;
+	background-color: pink;
+	padding: 7px 14px;
+	border:2px solid black;
+}
+html{
+	background-color: lightblue;
+}
+p{
+	font-size: 20px;
+}
+h3{
+	color: blue;
+}
+h1{
+	color: white;
+	text-shadow: 2px 3px 0 darkslateblue;
+}
